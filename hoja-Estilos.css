@@ -1,0 +1,7 @@
+p {
+  color: red;
+  background-color: black;
+  box-shadow: 7px 5px 33px 9px rgba(122, 50, 50, 0.75);
+  -webkit-box-shadow: 7px 5px 33px 9px rgba(122, 50, 50, 0.75);
+  -moz-box-shadow: 7px 5px 33px 9px rgba(122, 50, 50, 0.75);
+}
